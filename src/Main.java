@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Product price : 1895 euros.");
         System.out.println("Product Description : perfect product with best image quality.");
         System.out.println("Product category: Phone.\nMy First Name: Sazid Ahmed Nassir.");
+        System.out.println("3 \t 4");
 
     }
 }
